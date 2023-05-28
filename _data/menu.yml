@@ -2,9 +2,9 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Services
-    url: /services/
-    weight: 1
+  - name: About
+    url: /about/
+    weight: 2
     child:
       - name: "Web Development"
         url: /services/web-development/
@@ -18,9 +18,9 @@ main:
         url: /services/seo/
       - name: "Software Engineering"
         url: /services/software-engineering/
-  - name: Projects
-    url: /projects/
-    weight: 2
+  - name: News
+    url: /news/
+    weight: 3
     child:
       - name: "Modern Office Design"
         url: /projects/modern-office-design/
@@ -30,15 +30,18 @@ main:
         url: /projects/opera-house/
       - name: "Subway Signage"
         url: /projects/subway-signage/
-  - name: Blog
-    url: /blog/
+  - name: Community
+    url: /community/
     weight: 4
-  - name: About
-    url: /about/
+  - name: Tech
+    url: /tech/
     weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
+  - name: Get Involved
+    url: /get-involved/
     weight: 6
+  - name: Hall of Fame
+    url: /hall-of-fame/
+    weight: 7
 footer_primary:
   - name: Home
     url: /
