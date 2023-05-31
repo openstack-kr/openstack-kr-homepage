@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "OpenInfra UserGroup Korea"
+description: "OpenInfra UserGroup Korea is home of all open infra community including OpenStack."
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: OpenInfra UserGroup Korea - OpenInfra Community in Korea including OpenStack
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "OpenInfra UserGroup Korea"
+  sub_heading: "OpenInfra UserGroup Korea is home of all open infra community including OpenStack"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
