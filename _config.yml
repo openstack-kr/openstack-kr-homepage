@@ -81,10 +81,10 @@ category_dir: category
 
 colors:
   #light-mode colors
-  primary: "#2b3af7"
-  primary_2: "#424ff8"
+  primary: "#000000"
+  primary_2: "#000000"
   primary_text: "#fdfcf9"
-  secondary: "#702bf7"
+  secondary: "#ed1844"
   background: "#ffffff"
   background_2: "#f8f9ff"
   background_3: "#eef2f9"
@@ -111,14 +111,14 @@ fonts:
   logo: "Lato"
 
 logo:
-  logo_text: "Jekyll Advance"
+  logo_text: "OpenInfrea UserGroup Korea"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
-  logo_image_desktop_height: "30px"
+  logo_image_desktop_height: "85px"
   logo_image_desktop_width: "132px"
-  logo_image_mobile_height: "30px"
+  logo_image_mobile_height: "21px"
   logo_image_mobile_width: "34px"
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
@@ -168,7 +168,7 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2021 Zerostatic Themes"
+  copyright_text: "© 2023 OpenInfrea UserGroup Korea"
 
 sidebar:
   enable_sidebar_services: true

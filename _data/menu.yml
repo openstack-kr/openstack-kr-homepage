@@ -5,31 +5,31 @@ main:
   - name: About
     url: /about/
     weight: 2
-    child:
-      - name: "Web Development"
-        url: /services/web-development/
-      - name: "UX"
-        url: /services/user-experience/
-      - name: "Branding"
-        url: /services/branding/
-      - name: "Web Design"
-        url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
+#    child:
+#      - name: "Web Development"
+#        url: /services/web-development/
+#      - name: "UX"
+#        url: /services/user-experience/
+#      - name: "Branding"
+#        url: /services/branding/
+#      - name: "Web Design"
+#        url: /services/web-design/
+#      - name: "SEO"
+#        url: /services/seo/
+#      - name: "Software Engineering"
+#        url: /services/software-engineering/
   - name: News
     url: /news/
     weight: 3
-    child:
-      - name: "Modern Office Design"
-        url: /projects/modern-office-design/
-      - name: "Water Works"
-        url: /projects/water-works-project/
-      - name: "Opera House"
-        url: /projects/opera-house/
-      - name: "Subway Signage"
-        url: /projects/subway-signage/
+#    child:
+#      - name: "Modern Office Design"
+#        url: /projects/modern-office-design/
+#      - name: "Water Works"
+#        url: /projects/water-works-project/
+#      - name: "Opera House"
+#        url: /projects/opera-house/
+#      - name: "Subway Signage"
+#        url: /projects/subway-signage/
   - name: Community
     url: /community/
     weight: 4
