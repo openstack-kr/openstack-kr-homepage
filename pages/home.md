@@ -4,7 +4,7 @@ permalink: "/"
 title: "OpenInfra UserGroup Korea"
 description: "OpenInfra UserGroup Korea is home of all open infra community including OpenStack."
 header_transparent: true
-meta_title: OpenInfra UserGroup Korea - OpenInfra Community in Korea including OpenStack
+meta_title: OpenInfra UserGroup Korea - We Are OpenInfra
 
 hero:
   enabled: true
@@ -37,7 +37,7 @@ hero:
         style: "light"
 
 services:
-  enabled: true
+  enabled: false
   heading: "Our Services"
   sub_heading: ""
   limit: 6
@@ -74,7 +74,7 @@ intro:
         style: "primary"
 
 partners:
-  enabled: true
+  enabled: false
   limit: 5
   sort: "weight" # 'date'
 
