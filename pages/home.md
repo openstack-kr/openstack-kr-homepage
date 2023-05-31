@@ -93,7 +93,7 @@ outro:
   align: center
   image: false
   heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  sub_heading: "Get your own open infra and OpenStack today"
   features:
     enabled: false
     list:
@@ -102,13 +102,13 @@ outro:
   buttons:
     enabled: true
     list:
-      - text: "Contact Us"
+      - text: "Get Started"
         url: "/contact"
         external: false
         size: "large"
 
 posts:
-  enabled: true
+  enabled: false
   heading: "Latest Posts"
   sub_heading: ""
   limit: 3
