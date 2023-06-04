@@ -3,7 +3,8 @@ main:
     url: /
     weight: 1
   - name: About
-    url: /about/
+    #url: /about/
+    url: /
     weight: 2
 #    child:
 #      - name: "Web Development"

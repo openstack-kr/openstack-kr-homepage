@@ -49,25 +49,26 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-6-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
+  image: "/assets/images/gen/content/content-6-thumbnail.jpg"
+  heading: "Building the next decade of open infrastructure including OpenStack."
   sub_heading: ""
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Hosts regular OpenInfra seminar for Korean engineers."
         fa_icon: "fas fa-check"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Help users to study OpenInfra projects."
         fa_icon: "fas fa-check"
-      - text: "Fully responsive and SEO optimised."
+      - text: "Make people to contribute OpenInfra projects with upstream training."
         fa_icon: "fas fa-check"
-      - text: "Multiple content types including services, projects, blog and more."
+      - text: "Holds OpenInfra Community Days Korea 2023 with other communities."
         fa_icon: "fas fa-check"
   buttons:
     enabled: true
     list:
       - text: "About Us"
-        url: "/about"
+        #url: "/about"
+        url: "/"
         external: false
         fa_icon: ""
         size: large
@@ -80,7 +81,7 @@ partners:
   sort: "weight" # 'date'
 
 projects:
-  enabled: true
+  enabled: false
   heading: "Our Projects"
   sub_heading: ""
   limit: 2
@@ -104,7 +105,8 @@ outro:
     enabled: true
     list:
       - text: "Get Started"
-        url: "/contact"
+        url: "/"
+        #url: "/contact"
         external: false
         size: "large"
 

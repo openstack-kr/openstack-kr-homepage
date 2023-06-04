@@ -155,12 +155,12 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "OpenInfra UserGroup Korea"
-  footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
-  enable_social_media_icons: true
-  enable_contact_details: true
-  enable_menu_footer_primary: true
-  enable_menu_footer_secondary: true
-  enable_menu_footer_tertiary: true
+  #footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  enable_social_media_icons: false # 좌측 하단 소셜 아이콘 목록
+  enable_contact_details: false #우측 하단 연락처 섹션
+  enable_menu_footer_primary: false #첫번째 메뉴 목록
+  enable_menu_footer_secondary: false # 두번째 메뉴 목록
+  enable_menu_footer_tertiary: false # 마지막 메뉴 목록
   footer_primary_menu_title: "Product"
   footer_secondary_menu_title: "Company"
   footer_tertiary_menu_title: "Other"
