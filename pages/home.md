@@ -13,11 +13,12 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-1-large.webp"
+  background_image: "/assets/images/gen/home/home-1-large.jpg"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
-  fullscreen_desktop: false
-  height: "660px"
+  fullscreen_desktop: true
+  #height: "660px"
+  height: "1080px"
   buttons:
     enabled: false
     list:
