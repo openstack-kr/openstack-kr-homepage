@@ -111,7 +111,7 @@ fonts:
   logo: "Lato"
 
 logo:
-  logo_text: "OpenInfrea UserGroup Korea"
+  logo_text: "OpenInfra Korea Group"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -154,7 +154,7 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "OpenInfra UserGroup Korea"
+  footer_title: "OpenInfra Korea Group"
   #footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
   enable_social_media_icons: false # 좌측 하단 소셜 아이콘 목록
   enable_contact_details: false #우측 하단 연락처 섹션
@@ -168,7 +168,7 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2023 OpenInfrea UserGroup Korea"
+  copyright_text: "© 2023. OpenInfra Korea Group All Rights Reserved"
 
 sidebar:
   enable_sidebar_services: true

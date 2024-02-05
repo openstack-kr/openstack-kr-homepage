@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "OpenInfra UserGroup Korea"
-description: "OpenInfra UserGroup Korea is home of all open infra community including OpenStack."
+title: "OpenInfra Korea Group"
+description: "OpenInfra Korea Group is home of all open infra community including OpenStack."
 header_transparent: true
-meta_title: OpenInfra UserGroup Korea - We Are OpenInfra
+meta_title: OpenInfra Korea Group - We Are OpenInfra
 
 hero:
   enabled: true
-  heading: "OpenInfra UserGroup Korea"
-  sub_heading: "OpenInfra UserGroup Korea is home of all open infra community including OpenStack"
+  heading: "OpenInfra Korea Group"
+  sub_heading: "OpenInfra Korea Group is home of all open infra community including OpenStack"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -55,13 +55,13 @@ intro:
   features:
     enabled: true
     list:
-      - text: "Hosts regular OpenInfra seminar for Korean engineers."
+      - text: "Hosts regular OpenInfra seminar for engineers and developers in Korea."
         fa_icon: "fas fa-check"
       - text: "Help users to study OpenInfra projects."
         fa_icon: "fas fa-check"
       - text: "Make people to contribute OpenInfra projects with upstream training."
         fa_icon: "fas fa-check"
-      - text: "Holds OpenInfra Community Days Korea 2023 with other communities."
+      - text: "Holds OpenInfra Community Days Korea event annually with other communities."
         fa_icon: "fas fa-check"
   buttons:
     enabled: true
